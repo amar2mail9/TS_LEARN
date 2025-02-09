@@ -1,0 +1,2 @@
+// Tuple:-A tuple in TypeScript is declared using square brackets [] and the types of elements inside the tuple are defined in a specific order
+let role:[string,number,string,number,boolean?]=["Apple",12,"Banana",13,false]
